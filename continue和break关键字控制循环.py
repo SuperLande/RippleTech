@@ -24,7 +24,7 @@ for i in range(1,6):
 
 
 # Break循环直接导致循环整体结束
-for i in range(1,100):
+for i in range(1, 100):
     print("语句1")
     break
     print("sentence2")
